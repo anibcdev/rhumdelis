@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/produitsfz/www/themes/classic/modules/homefeatured/views/templates/hook/tab.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="9740b68cf6d05b58752ba1659440cd94">
+        <source>Tendance</source>
+        <target>Tendance</target>
+        <note>Context:
+File: /home/produitsfz/www/themes/classic/modules/homefeatured/views/templates/hook/tab.tpl:12</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/produitsfz/www/themes/classic/modules/homenewtab/views/templates/hook/homenewtab.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="5b146072cf4406de9b293ca3935d352e">
+        <source>No new products found</source>
+        <target>No new products found</target>
+        <note>Context:
+File: /home/produitsfz/www/themes/classic/modules/homenewtab/views/templates/hook/homenewtab.tpl:21</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/produitsfz/www/themes/classic/modules/homebestsellerstab/views/templates/hook/tab.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="f1ff9682123b76dfd732618ad1891d1c">
+        <source>Coup de coeur</source>
+        <target>Coup de coeur</target>
+        <note>Context:
+File: /home/produitsfz/www/themes/classic/modules/homebestsellerstab/views/templates/hook/tab.tpl:12</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/produitsfz/www/themes/classic/modules/homenewtab/views/templates/hook/tab.tpl" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="34af7c085bcc69df1313152dc167f4be">
+        <source>Nouvelle collection</source>
+        <target>Nouvelle collection</target>
+        <note>Context:
+File: /home/produitsfz/www/themes/classic/modules/homenewtab/views/templates/hook/tab.tpl:13</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

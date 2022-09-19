@@ -1,0 +1,61 @@
+div.payment_module.systempay15 {
+    padding-bottom: 20px;
+}
+
+div.payment_module.systempay16 a {
+    padding-left: 15px;
+    background-color: #fbfbfb;
+}
+
+div.payment_module.systempay a.unclickable {
+    cursor: default !important;
+    text-decoration: none !important;
+}
+
+div.payment_module.systempay a.unclickable:HOVER {
+    text-decoration: none !important;
+}
+
+div.payment_module.systempay a img {
+    float: none !important;
+}
+
+div.payment_module.systempay a img.logo {
+    width: 86px; 
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+div.payment_module.systempay a form {
+    padding-left: 40px;
+    font-size: 13px;
+    text-transform: none !important;
+}
+
+div.payment_module.systempay a img.card, div.payment_module.systempay a span.card {
+    vertical-align: middle;
+    margin-right: 10px;
+    height: 25px;
+}
+
+div.payment_module.systempay.multi ul {
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+div.payment_module.systempay.multi ul li {
+    font-weight: bold;
+    color: #777777;
+    cursor: pointer;
+    list-style-type: square;
+    margin-left: 15px;
+}
+
+div.payment_module.systempay.multi ul li:HOVER {
+    color: #000;
+}
+
+div.payment_module.systempay.multi p.tip {
+    padding-bottom: 5px !important;
+}

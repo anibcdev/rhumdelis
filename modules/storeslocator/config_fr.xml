@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>storeslocator</name>
+    <displayName><![CDATA[Localisateur de magasins]]></displayName>
+    <version><![CDATA[1.0.2]]></version>
+    <description><![CDATA[Affiche une carte et un champ de recherche d&#039;adresse permettant &agrave; l&#039;utilisateur de trouver les magasins pr&egrave;s de chez lui]]></description>
+    <author><![CDATA[Codik]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Etes vous sûr de vouloir désinstaller ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

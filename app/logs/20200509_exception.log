@@ -1,0 +1,13 @@
+*ERROR* 	v1.7.2.2	2020/05/09 - 00:14:08: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 00:35:02: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 03:24:11: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 05:17:12: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 05:56:09: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 05:56:09: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 06:07:09: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 06:16:27: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 07:02:09: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 07:46:24: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 14:48:32: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 19:15:37: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2020/05/09 - 20:27:07: Link to database cannot be established:SQLSTATE[HY000] [2002] Connection timed out at line 102 in file classes/db/DbPDO.php

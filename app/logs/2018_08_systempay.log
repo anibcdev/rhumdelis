@@ -1,0 +1,195 @@
+*INFO* 	v1.7.2.2	2018/08/02 - 09:48:08: Form data generation for cart #200 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/08/02 - 09:48:08: Data to be sent to payment gateway : Array
+(
+    [signature] => TceVaEfiMnw5ON+SrJZ2X5p2hRGDI+7ZW+xDR5GmWXQ=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 6915
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.30
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 8 impasse des champs passeret
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BESANCON
+    [vads_cust_country] => FR
+    [vads_cust_email] => yasmina_saman@yahoo.fr
+    [vads_cust_first_name] => Yasmina
+    [vads_cust_id] => 4
+    [vads_cust_last_name] => SAMAN LATCHIMY
+    [vads_cust_phone] => 07 50 21 86 95
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25000
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 200
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BESANCON
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Yasmina
+    [vads_ship_to_last_name] => SAMAN LATCHIMY
+    [vads_ship_to_phone_num] => 07 50 21 86 95
+    [vads_ship_to_street] => 8 impasse des champs passeret
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 1096
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 1153
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180802074808
+    [vads_trans_id] => 352885
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => 6 Verres à shooter peints à la main
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 2
+    [vads_product_ref0] => 21
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/08/12 - 18:42:07: Form data generation for cart #218 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/08/12 - 18:42:07: Data to be sent to payment gateway : Array
+(
+    [signature] => qssyxPAOhlAfm81f2/2UhJMkH0aqMtbPjbPMiH0JaKI=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 6915
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.30
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 5 rue de l église
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Hesdigneul les Béthune
+    [vads_cust_country] => FR
+    [vads_cust_email] => sandra.kordas@gmail.com
+    [vads_cust_first_name] => Sandra
+    [vads_cust_id] => 36
+    [vads_cust_last_name] => Kordas
+    [vads_cust_phone] => 0611678210
+    [vads_cust_title] => M
+    [vads_cust_zip] => 62196
+    [vads_language] => fr
+    [vads_nb_products] => 2
+    [vads_order_id] => 218
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Hesdigneul les Béthune
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Sandra
+    [vads_ship_to_last_name] => Kordas
+    [vads_ship_to_phone_num] => 0611678210
+    [vads_ship_to_street] => 5 rue de l église
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 62196
+    [vads_shipping_amount] => 1096
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 1153
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180812164207
+    [vads_trans_id] => 673271
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Bibasse Nèfle
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 27
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Délis café
+    [vads_product_amount1] => 2333
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 10
+    [vads_product_type1] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/08/12 - 18:44:39: Server call process starts for cart #218.
+*INFO* 	v1.7.2.2	2018/08/12 - 18:44:40: Payment accepted for cart #218. New order state is 2.
+*INFO* 	v1.7.2.2	2018/08/12 - 18:44:40: Create order for cart #218.
+*INFO* 	v1.7.2.2	2018/08/12 - 18:44:40: Order #59 created successfully for cart #218.
+*INFO* 	v1.7.2.2	2018/08/12 - 18:44:40: Save payment information for cart #218.
+*INFO* 	v1.7.2.2	2018/08/12 - 18:44:40: Payment information with ID(s) 67 saved successfully for cart #218.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:31:32: Form data generation for cart #220 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:31:32: Data to be sent to payment gateway : Array
+(
+    [signature] => qU5CPL8VDjPES/HL8/oXTI801qzYscgrZRoRDhvEYqM=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3815
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.30
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 3B rue Augustin Fauconnet
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Bannans
+    [vads_cust_country] => FR
+    [vads_cust_email] => gwenaelle.racle@live.fr
+    [vads_cust_first_name] => Gwenaëlle
+    [vads_cust_id] => 37
+    [vads_cust_last_name] => Racle
+    [vads_cust_phone] => 0678033826
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25560
+    [vads_language] => fr
+    [vads_nb_products] => 2
+    [vads_order_id] => 220
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Bannans
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Gwenaëlle
+    [vads_ship_to_last_name] => Racle
+    [vads_ship_to_phone_num] => 0678033826
+    [vads_ship_to_street] => 3B rue Augustin Fauconnet
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25560
+    [vads_shipping_amount] => 721
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 636
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180815113132
+    [vads_trans_id] => 486922
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Fruit de la passion
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 14
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Boîte cadeau
+    [vads_product_amount1] => 125
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 11
+    [vads_product_type1] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:15: Server call process starts for cart #220.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:15: Payment accepted for cart #220. New order state is 2.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:15: Create order for cart #220.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:16: Order #60 created successfully for cart #220.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:16: Save payment information for cart #220.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:16: Payment information with ID(s) 69 saved successfully for cart #220.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:31: User return to shop process starts for cart #220.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:31: Order already registered for cart #220.
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:31: The current state for order corresponding to cart #220 is (2).
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:31: No changes for order associated with cart #220, order remains in state (2).
+*INFO* 	v1.7.2.2	2018/08/15 - 13:34:31: Payment success confirmed for cart #220.

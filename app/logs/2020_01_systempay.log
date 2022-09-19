@@ -1,0 +1,185 @@
+*INFO* 	v1.7.2.2	2020/01/08 - 17:07:13: Form data generation for cart #2854 with standard sub-module.
+*INFO* 	v1.7.2.2	2020/01/08 - 17:07:13: Data to be sent to payment gateway : Array
+(
+    [signature] => Rwn/52QDMKWzLYo+MPOmY9nGIotTsQocvPC75o1dL00=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3400
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 17 place du 8 septembre code entree 4537
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Besançon
+    [vads_cust_country] => FR
+    [vads_cust_email] => benjaminbilo@outlook.fr
+    [vads_cust_first_name] => Benjamin
+    [vads_cust_id] => 147
+    [vads_cust_last_name] => Bilo de Bernardi
+    [vads_cust_phone] => 0659007761
+    [vads_cust_title] => M
+    [vads_cust_zip] => 25000
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 2854
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Besançon
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Benjamin
+    [vads_ship_to_last_name] => Bilo de Bernardi
+    [vads_ship_to_phone_num] => 0659007761
+    [vads_ship_to_street] => 17 place du 8 septembre
+    [vads_ship_to_street2] => code entree 4537
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 500
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 567
+    [vads_theme_config] => 
+    [vads_trans_date] => 20200108160713
+    [vads_trans_id] => 616331
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Vanille Bourbon de la Réunion
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 15
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2020/01/08 - 17:08:49: Server call process starts for cart #2854.
+*INFO* 	v1.7.2.2	2020/01/08 - 17:08:49: Payment accepted for cart #2854. New order state is 2.
+*INFO* 	v1.7.2.2	2020/01/08 - 17:08:49: Create order for cart #2854.
+*INFO* 	v1.7.2.2	2020/01/08 - 17:08:50: Order #139 created successfully for cart #2854.
+*INFO* 	v1.7.2.2	2020/01/08 - 17:08:50: Save payment information for cart #2854.
+*INFO* 	v1.7.2.2	2020/01/08 - 17:08:50: Payment information with ID(s) 273 saved successfully for cart #2854.
+*INFO* 	v1.7.2.2	2020/01/08 - 17:09:57: User return to shop process starts for cart #2854.
+*INFO* 	v1.7.2.2	2020/01/08 - 17:09:57: Order already registered for cart #2854.
+*INFO* 	v1.7.2.2	2020/01/08 - 17:09:57: The current state for order corresponding to cart #2854 is (2).
+*INFO* 	v1.7.2.2	2020/01/08 - 17:09:57: No changes for order associated with cart #2854, order remains in state (2).
+*INFO* 	v1.7.2.2	2020/01/08 - 17:09:57: Payment success confirmed for cart #2854.
+*INFO* 	v1.7.2.2	2020/01/14 - 14:08:28: Form data generation for cart #2860 with standard sub-module.
+*INFO* 	v1.7.2.2	2020/01/14 - 14:08:28: Data to be sent to payment gateway : Array
+(
+    [signature] => 0YzjPzQ7D3g4uX6lWvLElz18SYFz2FNszKyQW5Pewnk=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4180
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 2 rue des carrières
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => La côte
+    [vads_cust_country] => FR
+    [vads_cust_email] => Svenpuginpugin@gmail.com
+    [vads_cust_first_name] => Sven
+    [vads_cust_id] => 148
+    [vads_cust_last_name] => Pugin
+    [vads_cust_phone] => 0768695529
+    [vads_cust_title] => M
+    [vads_cust_zip] => 70200
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 2860
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => La côte
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Sven
+    [vads_ship_to_last_name] => Pugin
+    [vads_ship_to_phone_num] => 0768695529
+    [vads_ship_to_street] => 2 rue des carrières
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 70200
+    [vads_shipping_amount] => 733
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 698
+    [vads_theme_config] => 
+    [vads_trans_date] => 20200114130828
+    [vads_trans_id] => 509082
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Vanille Bourbon de la Réunion
+    [vads_product_amount0] => 2749
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 15
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2020/01/25 - 20:59:09: Form data generation for cart #2871 with standard sub-module.
+*INFO* 	v1.7.2.2	2020/01/25 - 20:59:09: Data to be sent to payment gateway : Array
+(
+    [signature] => KkCkhORWzSeLgIdMyi5Q4AB4phdyFfu+7i67ANUiYfc=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 6975
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => la chantraine
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => GENEVREUILLE
+    [vads_cust_country] => FR
+    [vads_cust_email] => brunoroustany@gmail.com
+    [vads_cust_first_name] => Bruno
+    [vads_cust_id] => 150
+    [vads_cust_last_name] => ROUSTANY
+    [vads_cust_phone] => 0676025647
+    [vads_cust_title] => M
+    [vads_cust_zip] => 70240
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 2871
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => GENEVREUILLE
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Bruno
+    [vads_ship_to_last_name] => ROUSTANY
+    [vads_ship_to_phone_num] => 0676025647
+    [vads_ship_to_street] => la chantraine
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 70240
+    [vads_shipping_amount] => 1146
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 1163
+    [vads_theme_config] => 
+    [vads_trans_date] => 20200125195909
+    [vads_trans_id] => 755497
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Vanille Bourbon de la Réunion
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 2
+    [vads_product_ref0] => 15
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2020/01/25 - 21:02:47: Server call process starts for cart #2871.
+*INFO* 	v1.7.2.2	2020/01/25 - 21:02:47: Payment accepted for cart #2871. New order state is 2.
+*INFO* 	v1.7.2.2	2020/01/25 - 21:02:47: Create order for cart #2871.
+*INFO* 	v1.7.2.2	2020/01/25 - 21:02:48: Order #140 created successfully for cart #2871.
+*INFO* 	v1.7.2.2	2020/01/25 - 21:02:48: Save payment information for cart #2871.
+*INFO* 	v1.7.2.2	2020/01/25 - 21:02:48: Payment information with ID(s) 275 saved successfully for cart #2871.

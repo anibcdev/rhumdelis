@@ -1,0 +1,1160 @@
+*INFO* 	v1.7.2.2	2021/01/02 - 18:37:20: Form data generation for cart #4170 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/02 - 18:37:20: Data to be sent to payment gateway : Array
+(
+    [signature] => 6e4ofV67gfp8RyMouzV5ia1EkU4wS3xfNmBjTuzSVYE=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 7175
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => PA FONTVIEILLE ROUTE DES 4 SAISONS
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => ALLAUCH
+    [vads_cust_country] => FR
+    [vads_cust_email] => pierre.flores@club-internet.fr
+    [vads_cust_first_name] => PIERRE FLORES
+    [vads_cust_id] => 481
+    [vads_cust_last_name] => TECHNICOFLOR
+    [vads_cust_phone] => 0689570923
+    [vads_cust_title] => M
+    [vads_cust_zip] => 13190
+    [vads_language] => fr
+    [vads_nb_products] => 2
+    [vads_order_id] => 4170
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => ALLAUCH
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => PIERRE FLORES
+    [vads_ship_to_last_name] => TECHNICOFLOR
+    [vads_ship_to_phone_num] => 0689570923
+    [vads_ship_to_street] => PA FONTVIEILLE
+    [vads_ship_to_street2] => ROUTE DES 4 SAISONS
+    [vads_ship_to_zip] => 13190
+    [vads_shipping_amount] => 1146
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 1197
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210102173720
+    [vads_trans_id] => 670406
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis épices
+    [vads_product_amount0] => 2416
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 26
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Délis Vanille Bourbon de la Réunion
+    [vads_product_amount1] => 2416
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 15
+    [vads_product_type1] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/02 - 18:38:14: Server call process starts for cart #4170.
+*INFO* 	v1.7.2.2	2021/01/02 - 18:38:14: Payment accepted for cart #4170. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/02 - 18:38:14: Create order for cart #4170.
+*INFO* 	v1.7.2.2	2021/01/02 - 18:38:16: Order #364 created successfully for cart #4170.
+*INFO* 	v1.7.2.2	2021/01/02 - 18:38:16: Save payment information for cart #4170.
+*INFO* 	v1.7.2.2	2021/01/02 - 18:38:16: Payment information with ID(s) 919 saved successfully for cart #4170.
+*INFO* 	v1.7.2.2	2021/01/03 - 20:49:58: Form data generation for cart #4174 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/03 - 20:49:58: Data to be sent to payment gateway : Array
+(
+    [signature] => 8G8lpbrXHe1/SUnkxFLmd96Gr1Y9/f1+NOwmTL2si50=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4875
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 13 impasse benet
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Carcassonne
+    [vads_cust_country] => FR
+    [vads_cust_email] => florentetmarion@live.fr
+    [vads_cust_first_name] => Florent
+    [vads_cust_id] => 483
+    [vads_cust_last_name] => Diaz
+    [vads_cust_phone] => 0610867763
+    [vads_cust_title] => M
+    [vads_cust_zip] => 11000
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4174
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Marseille
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Thierry
+    [vads_ship_to_last_name] => Dominici
+    [vads_ship_to_phone_num] => 0766630319
+    [vads_ship_to_street] => 43 impasse de la Bouquiere
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 13011
+    [vads_shipping_amount] => 1146
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 813
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210103194958
+    [vads_trans_id] => 749981
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Coffret cadeau
+    [vads_product_amount0] => 2916
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 28
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/03 - 20:53:09: Server call process starts for cart #4174.
+*INFO* 	v1.7.2.2	2021/01/03 - 20:53:09: Payment accepted for cart #4174. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/03 - 20:53:09: Create order for cart #4174.
+*INFO* 	v1.7.2.2	2021/01/03 - 20:53:10: Order #365 created successfully for cart #4174.
+*INFO* 	v1.7.2.2	2021/01/03 - 20:53:10: Save payment information for cart #4174.
+*INFO* 	v1.7.2.2	2021/01/03 - 20:53:10: Payment information with ID(s) 921 saved successfully for cart #4174.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:53:55: Form data generation for cart #4190 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:53:55: Data to be sent to payment gateway : Array
+(
+    [signature] => d4Yjl+NJ4H4QiEbY8RFLU7+rR1Ou/R5nvUU8HI6b80Y=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4295
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 6A IMPASSE DU CLOS
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BESSONCOURT
+    [vads_cust_country] => FR
+    [vads_cust_email] => laetitia.begey@neuf.fr
+    [vads_cust_first_name] => LAETITIA
+    [vads_cust_id] => 486
+    [vads_cust_last_name] => BEGEY
+    [vads_cust_phone] => 0661532862
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 90160
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4190
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BESSONCOURT
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => LAETITIA
+    [vads_ship_to_last_name] => BEGEY
+    [vads_ship_to_phone_num] => 0661532862
+    [vads_ship_to_street] => 6A IMPASSE DU CLOS
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 90160
+    [vads_shipping_amount] => 746
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 716
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210108115355
+    [vads_trans_id] => 464358
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis café
+    [vads_product_amount0] => 2833
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 10
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/08 - 12:55:20: Server call process starts for cart #4190.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:55:20: Payment accepted for cart #4190. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:55:20: Create order for cart #4190.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:55:22: Order #366 created successfully for cart #4190.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:55:22: Save payment information for cart #4190.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:55:22: Payment information with ID(s) 927 saved successfully for cart #4190.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:56:30: User return to shop process starts for cart #4190.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:56:30: Order already registered for cart #4190.
+*INFO* 	v1.7.2.2	2021/01/08 - 12:56:30: The current state for order corresponding to cart #4190 is (2).
+*INFO* 	v1.7.2.2	2021/01/08 - 12:56:30: No changes for order associated with cart #4190, order remains in state (2).
+*INFO* 	v1.7.2.2	2021/01/08 - 12:56:30: Payment success confirmed for cart #4190.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:48:26: Form data generation for cart #4194 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:48:26: Data to be sent to payment gateway : Array
+(
+    [signature] => pdKsdtYXM7uw7e22YHLSc9ppGRKBm64iMiNPRlGnC9s=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 10505
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 1 rue du Château
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => ORGELET
+    [vads_cust_country] => FR
+    [vads_cust_email] => henrinabet@orange.fr
+    [vads_cust_first_name] => Henri
+    [vads_cust_id] => 411
+    [vads_cust_last_name] => NABET
+    [vads_cust_phone] => 0680088089
+    [vads_cust_title] => M
+    [vads_cust_zip] => 39270
+    [vads_language] => fr
+    [vads_nb_products] => 2
+    [vads_order_id] => 4194
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => ORGELET
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Henri
+    [vads_ship_to_last_name] => NABET
+    [vads_ship_to_phone_num] => 0680088089
+    [vads_ship_to_street] => 1 rue du Château
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 39270
+    [vads_shipping_amount] => 1671
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 1752
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210109054826
+    [vads_trans_id] => 245064
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => 6 Verres à shooter peints à la main
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 2
+    [vads_product_ref0] => 21
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Délis Ananas Victoria
+    [vads_product_amount1] => 2416
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 13
+    [vads_product_type1] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/09 - 06:50:43: Server call process starts for cart #4194.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:50:43: Payment accepted for cart #4194. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:50:43: Create order for cart #4194.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:50:46: Order #367 created successfully for cart #4194.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:50:46: Save payment information for cart #4194.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:50:46: Payment information with ID(s) 929 saved successfully for cart #4194.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:52:00: User return to shop process starts for cart #4194.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:52:00: Order already registered for cart #4194.
+*INFO* 	v1.7.2.2	2021/01/09 - 06:52:00: The current state for order corresponding to cart #4194 is (2).
+*INFO* 	v1.7.2.2	2021/01/09 - 06:52:00: No changes for order associated with cart #4194, order remains in state (2).
+*INFO* 	v1.7.2.2	2021/01/09 - 06:52:00: Payment success confirmed for cart #4194.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:38:14: Form data generation for cart #4199 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:38:14: Data to be sent to payment gateway : Array
+(
+    [signature] => zqZSoeK87NEcSwHs4mOez0ZgX3piOtga8AgreMCjFHI=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 8715
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 16 rue du 8 mai 1945
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => CLERMONT FERRAND
+    [vads_cust_country] => FR
+    [vads_cust_email] => talon.aurelie@orange.fr
+    [vads_cust_first_name] => Aurélié
+    [vads_cust_id] => 487
+    [vads_cust_last_name] => TALON
+    [vads_cust_phone] => 0660258050
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 63000
+    [vads_language] => fr
+    [vads_nb_products] => 6
+    [vads_order_id] => 4199
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => CLERMONT FERRAND
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Aurélié
+    [vads_ship_to_last_name] => TALON
+    [vads_ship_to_phone_num] => 0660258050
+    [vads_ship_to_street] => 16 rue du 8 mai 1945
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 63000
+    [vads_shipping_amount] => 679
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 1455
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210110153814
+    [vads_trans_id] => 598945
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Ananas Victoria
+    [vads_product_amount0] => 833
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 32
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Délis Citron vert et basilic
+    [vads_product_amount1] => 833
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 35
+    [vads_product_type1] => FOOD_AND_GROCERY
+    [vads_product_label2] => Délis Gingembre et poire
+    [vads_product_amount2] => 833
+    [vads_product_qty2] => 1
+    [vads_product_ref2] => 39
+    [vads_product_type2] => FOOD_AND_GROCERY
+    [vads_product_label3] => Délis Menthe et basilic
+    [vads_product_amount3] => 833
+    [vads_product_qty3] => 1
+    [vads_product_ref3] => 41
+    [vads_product_type3] => FOOD_AND_GROCERY
+    [vads_product_label4] => Délis Vanille
+    [vads_product_amount4] => 833
+    [vads_product_qty4] => 1
+    [vads_product_ref4] => 44
+    [vads_product_type4] => FOOD_AND_GROCERY
+    [vads_product_label5] => Délis Fruit de la passion
+    [vads_product_amount5] => 2416
+    [vads_product_qty5] => 1
+    [vads_product_ref5] => 14
+    [vads_product_type5] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:02: Server call process starts for cart #4199.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:02: Payment accepted for cart #4199. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:02: Create order for cart #4199.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:04: Order #368 created successfully for cart #4199.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:04: Save payment information for cart #4199.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:04: Payment information with ID(s) 931 saved successfully for cart #4199.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:52: User return to shop process starts for cart #4199.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:52: Order already registered for cart #4199.
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:52: The current state for order corresponding to cart #4199 is (2).
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:52: No changes for order associated with cart #4199, order remains in state (2).
+*INFO* 	v1.7.2.2	2021/01/10 - 16:39:52: Payment success confirmed for cart #4199.
+*INFO* 	v1.7.2.2	2021/01/12 - 13:00:11: Form data generation for cart #4205 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/12 - 13:00:11: Data to be sent to payment gateway : Array
+(
+    [signature] => dK+t6QpScky+Jp42b5AS0ZSXlAeLfDkTwzZVphcYyhs=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3505
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 3, rue Garibaldi
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Besançon
+    [vads_cust_country] => FR
+    [vads_cust_email] => row58@hotmail.fr
+    [vads_cust_first_name] => Romane
+    [vads_cust_id] => 489
+    [vads_cust_last_name] => Arriat
+    [vads_cust_phone] => 0760073234
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25000
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4205
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Besançon
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Romane
+    [vads_ship_to_last_name] => Arriat
+    [vads_ship_to_phone_num] => 0760073234
+    [vads_ship_to_street] => 3, rue Garibaldi
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 504
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 585
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210112120011
+    [vads_trans_id] => 468119
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Vanille Bourbon de la Réunion
+    [vads_product_amount0] => 2416
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 15
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/12 - 13:02:39: Server call process starts for cart #4205.
+*INFO* 	v1.7.2.2	2021/01/12 - 13:02:39: Payment accepted for cart #4205. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/12 - 13:02:39: Create order for cart #4205.
+*INFO* 	v1.7.2.2	2021/01/12 - 13:02:39: Order #369 created successfully for cart #4205.
+*INFO* 	v1.7.2.2	2021/01/12 - 13:02:39: Save payment information for cart #4205.
+*INFO* 	v1.7.2.2	2021/01/12 - 13:02:39: Payment information with ID(s) 933 saved successfully for cart #4205.
+*INFO* 	v1.7.2.2	2021/01/18 - 20:26:53: Form data generation for cart #4223 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/18 - 20:26:53: Data to be sent to payment gateway : Array
+(
+    [signature] => IWQsKiTfgFAT248V9yfdSXL5PBvY2+RF3vJN/peK5Es=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3795
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 25 rue Floréal
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Bâtiment B
+    [vads_cust_country] => FR
+    [vads_cust_email] => ludivine.thomas@hotmail.fr
+    [vads_cust_first_name] => Ludivine
+    [vads_cust_id] => 490
+    [vads_cust_last_name] => Thomas
+    [vads_cust_phone] => 0688185729
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 31130
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4223
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Aubrometz
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Patrick
+    [vads_ship_to_last_name] => Thomas
+    [vads_ship_to_phone_num] => 0688185729
+    [vads_ship_to_street] => 39 route principale
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 62390
+    [vads_shipping_amount] => 746
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 633
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210118192653
+    [vads_trans_id] => 736132
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Fruit de la passion
+    [vads_product_amount0] => 2416
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 14
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/19 - 10:44:53: Form data generation for cart #4226 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/19 - 10:44:53: Data to be sent to payment gateway : Array
+(
+    [signature] => OxHRoEEIuQGf+jnUora+vuMjX8NWzHwspMGoxvoBkik=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4005
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 37 route de Lézat
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => MAURESSAC
+    [vads_cust_country] => FR
+    [vads_cust_email] => caussade1931@yahoo.com
+    [vads_cust_first_name] => Cécile
+    [vads_cust_id] => 491
+    [vads_cust_last_name] => MARTIN-BENETTI
+    [vads_cust_phone] => 0677169766
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 31190
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4226
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => MAURESSAC
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Cécile
+    [vads_ship_to_last_name] => MARTIN-BENETTI
+    [vads_ship_to_phone_num] => 0677169766
+    [vads_ship_to_street] => 37 route de Lézat
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 31190
+    [vads_shipping_amount] => 504
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 668
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210119094453
+    [vads_trans_id] => 386932
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Vanille Bourbon de la Réunion
+    [vads_product_amount0] => 2833
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 15
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:11: Server call process starts for cart #4226.
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:11: Payment accepted for cart #4226. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:11: Create order for cart #4226.
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:13: Order #370 created successfully for cart #4226.
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:13: Save payment information for cart #4226.
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:13: Payment information with ID(s) 938 saved successfully for cart #4226.
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:20: User return to shop process starts for cart #4226.
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:20: Order already registered for cart #4226.
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:20: The current state for order corresponding to cart #4226 is (2).
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:20: No changes for order associated with cart #4226, order remains in state (2).
+*INFO* 	v1.7.2.2	2021/01/19 - 10:46:20: Payment success confirmed for cart #4226.
+*INFO* 	v1.7.2.2	2021/01/20 - 18:54:36: Form data generation for cart #4230 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/20 - 18:54:36: Data to be sent to payment gateway : Array
+(
+    [signature] => JkVSITEcSQI+otqXbfZTbXI2BLuzhJCovo71kYQMgyI=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 15650
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 18 rue de la ronce Bat b2
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => VILLE D AVRAY
+    [vads_cust_country] => FR
+    [vads_cust_email] => martinez-marion@hotmail.fr
+    [vads_cust_first_name] => Marion
+    [vads_cust_id] => 492
+    [vads_cust_last_name] => Martinez
+    [vads_cust_phone] => +33632538465
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 92410
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4230
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => VILLE D AVRAY
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Marion
+    [vads_ship_to_last_name] => Martinez
+    [vads_ship_to_phone_num] => +33632538465
+    [vads_ship_to_street] => 18 rue de la ronce
+    [vads_ship_to_street2] => Bat b2
+    [vads_ship_to_zip] => 92410
+    [vads_shipping_amount] => 1708
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 2610
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210120175436
+    [vads_trans_id] => 680768
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Fruit de la passion
+    [vads_product_amount0] => 2833
+    [vads_product_qty0] => 4
+    [vads_product_ref0] => 14
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/20 - 18:58:54: Server call process starts for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 18:58:54: Payment failed for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 18:58:56: User return to shop process starts for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 18:58:56: Payment failed, redirect to order checkout page, cart ID : #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 18:59:15: Form data generation for cart #4230 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/20 - 18:59:15: Data to be sent to payment gateway : Array
+(
+    [signature] => npXKUUrrR79zMQ16WPZWSic75XYjd/lcsGEGGU8gL6U=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 15650
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 18 rue de la ronce Bat b2
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => VILLE D AVRAY
+    [vads_cust_country] => FR
+    [vads_cust_email] => martinez-marion@hotmail.fr
+    [vads_cust_first_name] => Marion
+    [vads_cust_id] => 492
+    [vads_cust_last_name] => Martinez
+    [vads_cust_phone] => +33632538465
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 92410
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4230
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => VILLE D AVRAY
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Marion
+    [vads_ship_to_last_name] => Martinez
+    [vads_ship_to_phone_num] => +33632538465
+    [vads_ship_to_street] => 18 rue de la ronce
+    [vads_ship_to_street2] => Bat b2
+    [vads_ship_to_zip] => 92410
+    [vads_shipping_amount] => 1708
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 2610
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210120175915
+    [vads_trans_id] => 683558
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Fruit de la passion
+    [vads_product_amount0] => 2833
+    [vads_product_qty0] => 4
+    [vads_product_ref0] => 14
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:24: Server call process starts for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:24: Payment accepted for cart #4230. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:24: Create order for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:25: Order #371 created successfully for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:25: Save payment information for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:25: Payment information with ID(s) 940 saved successfully for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:49: User return to shop process starts for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:49: Order already registered for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:49: The current state for order corresponding to cart #4230 is (2).
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:49: No changes for order associated with cart #4230, order remains in state (2).
+*INFO* 	v1.7.2.2	2021/01/20 - 19:00:49: Payment success confirmed for cart #4230.
+*INFO* 	v1.7.2.2	2021/01/20 - 20:29:45: Form data generation for cart #4232 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/20 - 20:29:45: Data to be sent to payment gateway : Array
+(
+    [signature] => mrsvmOR23QKwExvKxiU47rrSeoF6Q/gYXr7hCViTc4g=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4195
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 8 impasse de la scabieuse
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => byans sur doubs
+    [vads_cust_country] => FR
+    [vads_cust_email] => lapetitecrey@gmail.com
+    [vads_cust_first_name] => aline
+    [vads_cust_id] => 493
+    [vads_cust_last_name] => Fumey
+    [vads_cust_phone] => 0685953093
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25320
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4232
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => byans sur doubs
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => aline
+    [vads_ship_to_last_name] => Fumey
+    [vads_ship_to_phone_num] => 0685953093
+    [vads_ship_to_street] => 8 impasse de la scabieuse
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25320
+    [vads_shipping_amount] => 579
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 700
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210120192945
+    [vads_trans_id] => 737856
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Coffret cadeau
+    [vads_product_amount0] => 2916
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 28
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/20 - 20:31:13: Server call process starts for cart #4232.
+*INFO* 	v1.7.2.2	2021/01/20 - 20:31:13: Payment accepted for cart #4232. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/20 - 20:31:13: Create order for cart #4232.
+*INFO* 	v1.7.2.2	2021/01/20 - 20:31:14: Order #372 created successfully for cart #4232.
+*INFO* 	v1.7.2.2	2021/01/20 - 20:31:14: Save payment information for cart #4232.
+*INFO* 	v1.7.2.2	2021/01/20 - 20:31:14: Payment information with ID(s) 942 saved successfully for cart #4232.
+*INFO* 	v1.7.2.2	2021/01/21 - 10:48:55: Form data generation for cart #4236 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/21 - 10:48:55: Data to be sent to payment gateway : Array
+(
+    [signature] => B3wQmvWO3RV5q6sVUJv1sVjAdXIL2ZkOVgPex6/8Q7I=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3400
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 18 rue de la ronce Bat b2
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => VILLE D AVRAY
+    [vads_cust_country] => FR
+    [vads_cust_email] => martinez-marion@hotmail.fr
+    [vads_cust_first_name] => Marion
+    [vads_cust_id] => 492
+    [vads_cust_last_name] => Martinez
+    [vads_cust_phone] => +33632538465
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 92410
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4236
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => VILLE D AVRAY
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Marion
+    [vads_ship_to_last_name] => Martinez
+    [vads_ship_to_phone_num] => +33632538465
+    [vads_ship_to_street] => 18 rue de la ronce
+    [vads_ship_to_street2] => Bat b2
+    [vads_ship_to_zip] => 92410
+    [vads_shipping_amount] => 0
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 567
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210121094855
+    [vads_trans_id] => 389350
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Fruit de la passion
+    [vads_product_amount0] => 2833
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 14
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/21 - 10:51:05: Server call process starts for cart #4236.
+*INFO* 	v1.7.2.2	2021/01/21 - 10:51:05: Payment accepted for cart #4236. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/21 - 10:51:05: Create order for cart #4236.
+*INFO* 	v1.7.2.2	2021/01/21 - 10:51:07: Order #373 created successfully for cart #4236.
+*INFO* 	v1.7.2.2	2021/01/21 - 10:51:07: Save payment information for cart #4236.
+*INFO* 	v1.7.2.2	2021/01/21 - 10:51:07: Payment information with ID(s) 944 saved successfully for cart #4236.
+*INFO* 	v1.7.2.2	2021/01/21 - 13:41:14: Form data generation for cart #4238 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/21 - 13:41:14: Data to be sent to payment gateway : Array
+(
+    [signature] => VMSU6bh7/dkSEc4MRB+0PPlhqx3bXuJodqQk+2P23oY=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3400
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 59 rue du patiou
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Liré
+    [vads_cust_country] => FR
+    [vads_cust_email] => killianrousseau@orange.fr
+    [vads_cust_first_name] => Killian
+    [vads_cust_id] => 494
+    [vads_cust_last_name] => ROUSSEAU
+    [vads_cust_phone] => 0785419117
+    [vads_cust_title] => M
+    [vads_cust_zip] => 49530
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4238
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Liré
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Killian
+    [vads_ship_to_last_name] => ROUSSEAU
+    [vads_ship_to_phone_num] => 0785419117
+    [vads_ship_to_street] => 59 rue du patiou
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 49530
+    [vads_shipping_amount] => 0
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 567
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210121124114
+    [vads_trans_id] => 492741
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis cacao tonka
+    [vads_product_amount0] => 2833
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 8
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/21 - 13:43:15: Server call process starts for cart #4238.
+*INFO* 	v1.7.2.2	2021/01/21 - 13:43:15: Payment failed for cart #4238.
+*INFO* 	v1.7.2.2	2021/01/21 - 13:43:35: User return to shop process starts for cart #4238.
+*INFO* 	v1.7.2.2	2021/01/21 - 13:43:35: Payment failed, redirect to order checkout page, cart ID : #4238.
+*INFO* 	v1.7.2.2	2021/01/21 - 13:44:03: Form data generation for cart #4238 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/21 - 13:44:03: Data to be sent to payment gateway : Array
+(
+    [signature] => q5KwNkv49P3njAFA6aov3h5HZwQzUiRtOUAEkuZNmGg=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3400
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 59 rue du patiou
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Liré
+    [vads_cust_country] => FR
+    [vads_cust_email] => killianrousseau@orange.fr
+    [vads_cust_first_name] => Killian
+    [vads_cust_id] => 494
+    [vads_cust_last_name] => ROUSSEAU
+    [vads_cust_phone] => 0785419117
+    [vads_cust_title] => M
+    [vads_cust_zip] => 49530
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4238
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Liré
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Killian
+    [vads_ship_to_last_name] => ROUSSEAU
+    [vads_ship_to_phone_num] => 0785419117
+    [vads_ship_to_street] => 59 rue du patiou
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 49530
+    [vads_shipping_amount] => 0
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 567
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210121124403
+    [vads_trans_id] => 494432
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis cacao tonka
+    [vads_product_amount0] => 2833
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 8
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/21 - 13:54:10: Server call process starts for cart #4238.
+*INFO* 	v1.7.2.2	2021/01/21 - 13:54:10: Payment failed for cart #4238.
+*INFO* 	v1.7.2.2	2021/01/22 - 13:18:16: Form data generation for cart #4246 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/22 - 13:18:16: Data to be sent to payment gateway : Array
+(
+    [signature] => +qdvvNdqHg3XmG/kWAqEDrfZCRG2qxEhaqZU0yiGMBU=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4315
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => Brambillec 3
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => KERVIGNAC
+    [vads_cust_country] => FR
+    [vads_cust_email] => chocho-56@hotmail.fr
+    [vads_cust_first_name] => Jordan
+    [vads_cust_id] => 497
+    [vads_cust_last_name] => Drouin
+    [vads_cust_phone] => 0635439566
+    [vads_cust_title] => M
+    [vads_cust_zip] => 56700
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4246
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => KERVIGNAC
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Jordan
+    [vads_ship_to_last_name] => Drouin
+    [vads_ship_to_phone_num] => 0635439566
+    [vads_ship_to_street] => Brambillec
+    [vads_ship_to_street2] => 3
+    [vads_ship_to_zip] => 56700
+    [vads_shipping_amount] => 763
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 719
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210122121816
+    [vads_trans_id] => 478964
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Vanille Bourbon de la Réunion
+    [vads_product_amount0] => 2833
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 15
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/22 - 13:20:00: Server call process starts for cart #4246.
+*INFO* 	v1.7.2.2	2021/01/22 - 13:20:00: Payment failed for cart #4246.
+*INFO* 	v1.7.2.2	2021/01/22 - 13:20:11: User return to shop process starts for cart #4246.
+*INFO* 	v1.7.2.2	2021/01/22 - 13:20:11: Payment failed, redirect to order checkout page, cart ID : #4246.
+*INFO* 	v1.7.2.2	2021/01/22 - 13:20:23: Form data generation for cart #4246 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/22 - 13:20:23: Data to be sent to payment gateway : Array
+(
+    [signature] => iFCNlFnXFWRk8w0uTycfcHotDOaQAE5Vxr5filot63U=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4315
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => Brambillec 3
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => KERVIGNAC
+    [vads_cust_country] => FR
+    [vads_cust_email] => chocho-56@hotmail.fr
+    [vads_cust_first_name] => Jordan
+    [vads_cust_id] => 497
+    [vads_cust_last_name] => Drouin
+    [vads_cust_phone] => 0635439566
+    [vads_cust_title] => M
+    [vads_cust_zip] => 56700
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4246
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => KERVIGNAC
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Jordan
+    [vads_ship_to_last_name] => Drouin
+    [vads_ship_to_phone_num] => 0635439566
+    [vads_ship_to_street] => Brambillec
+    [vads_ship_to_street2] => 3
+    [vads_ship_to_zip] => 56700
+    [vads_shipping_amount] => 763
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 719
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210122122023
+    [vads_trans_id] => 480232
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Vanille Bourbon de la Réunion
+    [vads_product_amount0] => 2833
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 15
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/22 - 13:21:14: Server call process starts for cart #4246.
+*INFO* 	v1.7.2.2	2021/01/22 - 13:21:14: Payment failed for cart #4246.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:21:17: Form data generation for cart #4255 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:21:18: Data to be sent to payment gateway : Array
+(
+    [signature] => SNV28HyGrnDdXAtkmv2NQQ8otrJNPsItz05JqC5UiP8=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4465
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 87 RUE MARCEL DASSAULT
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BOULOGNE BILLANCOURT
+    [vads_cust_country] => FR
+    [vads_cust_email] => bendemaslatrie@hotmail.com
+    [vads_cust_first_name] => ALAIN
+    [vads_cust_id] => 498
+    [vads_cust_last_name] => DE MAS LATRIE
+    [vads_cust_phone] => 0692717275 - 0682901372
+    [vads_cust_title] => M
+    [vads_cust_zip] => 92100
+    [vads_language] => fr
+    [vads_nb_products] => 2
+    [vads_order_id] => 4255
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BOULOGNE BILLANCOURT
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => ALAIN
+    [vads_ship_to_last_name] => DE MAS LATRIE
+    [vads_ship_to_phone_num] => 0692717275 - 0682901372
+    [vads_ship_to_street] => 87 RUE MARCEL DASSAULT
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 92100
+    [vads_shipping_amount] => 763
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 744
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210126102118
+    [vads_trans_id] => 408780
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Boîte cadeau
+    [vads_product_amount0] => 125
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 11
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Délis citron vert et basilic
+    [vads_product_amount1] => 2833
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 9
+    [vads_product_type1] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:23: Server call process starts for cart #4255.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:23: Payment accepted for cart #4255. New order state is 2.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:23: Create order for cart #4255.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:24: Order #374 created successfully for cart #4255.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:24: Save payment information for cart #4255.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:24: Payment information with ID(s) 948 saved successfully for cart #4255.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:44: User return to shop process starts for cart #4255.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:44: Order already registered for cart #4255.
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:44: The current state for order corresponding to cart #4255 is (2).
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:44: No changes for order associated with cart #4255, order remains in state (2).
+*INFO* 	v1.7.2.2	2021/01/26 - 11:22:44: Payment success confirmed for cart #4255.
+*INFO* 	v1.7.2.2	2021/01/31 - 18:37:32: Form data generation for cart #4270 with standard sub-module.
+*INFO* 	v1.7.2.2	2021/01/31 - 18:37:32: Data to be sent to payment gateway : Array
+(
+    [signature] => 3o4d+oTIKbINtxE5jzvScm7H3j/C9OGZRzkbvOLkQn8=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3815
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.33
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 159 rue de la croix nivert
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Paris
+    [vads_cust_country] => FR
+    [vads_cust_email] => hectorporro@outlook.com
+    [vads_cust_first_name] => Hector
+    [vads_cust_id] => 499
+    [vads_cust_last_name] => Porro
+    [vads_cust_phone] => 0633020496
+    [vads_cust_title] => M
+    [vads_cust_zip] => 75015
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 4270
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Paris
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Hector
+    [vads_ship_to_last_name] => Porro
+    [vads_ship_to_phone_num] => 0633020496
+    [vads_ship_to_street] => 159 rue de la croix nivert
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 75015
+    [vads_shipping_amount] => 763
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 636
+    [vads_theme_config] => 
+    [vads_trans_date] => 20210131173732
+    [vads_trans_id] => 670527
+    [vads_url_return] => https://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Banane
+    [vads_product_amount0] => 2416
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 17
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+

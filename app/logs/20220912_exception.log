@@ -1,0 +1,7 @@
+*ERROR* 	v1.7.2.2	2022/09/12 - 14:26:28: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2022/09/12 - 15:48:20: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2022/09/12 - 15:48:21: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2022/09/12 - 15:48:22: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2022/09/12 - 16:55:28: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2022/09/12 - 16:58:37: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.2.2	2022/09/12 - 16:59:19: Link to database cannot be established:SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 102 in file classes/db/DbPDO.php

@@ -1,0 +1,70 @@
+*INFO* 	v1.7.2.2	2018/03/12 - 12:43:18: Form data generation for cart #105 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/03/12 - 12:43:18: Data to be sent to payment platform : Array
+(
+    [signature] => d826d443e2cd8201c23654e73090646b001d9402
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3815
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.27
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 78 rue lesage
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => reims
+    [vads_cust_country] => FR
+    [vads_cust_email] => cherrier.c@laposte.net
+    [vads_cust_first_name] => camille
+    [vads_cust_id] => 12
+    [vads_cust_last_name] => cherrier
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 0668532022
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 51100
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 2
+    [vads_order_id] => 105
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => reims
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => camille
+    [vads_ship_to_last_name] => cherrier
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 0668532022
+    [vads_ship_to_street] => 78 rue lesage
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 51100
+    [vads_shipping_amount] => 721
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 636
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180312114318
+    [vads_trans_id] => 457986
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Boîte cadeau
+    [vads_product_amount0] => 125
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 11
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Rhum arrangé Fruit de la passion
+    [vads_product_amount1] => 2333
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 14
+    [vads_product_type1] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/03/12 - 12:47:25: Server call process starts for cart #105.
+*INFO* 	v1.7.2.2	2018/03/12 - 12:47:25: Payment accepted for cart #105. New order status is 2.
+*INFO* 	v1.7.2.2	2018/03/12 - 12:47:25: Create order for cart #105.
+*INFO* 	v1.7.2.2	2018/03/12 - 12:47:25: Order #46 created successfully for cart #105.
+*INFO* 	v1.7.2.2	2018/03/12 - 12:47:25: Save payment information for cart #105.
+*INFO* 	v1.7.2.2	2018/03/12 - 12:47:25: Payment information with ID(s) 30 saved successfully for cart #105.

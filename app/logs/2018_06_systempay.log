@@ -1,0 +1,148 @@
+*INFO* 	v1.7.2.2	2018/06/06 - 10:41:50: Form data generation for cart #164 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:41:50: Data to be sent to payment platform : Array
+(
+    [signature] => fdcd337493cf597dda74725f1c10fdff0240d672
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 6400
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.27
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 2, place de l’eglise
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Soisy sous montmorency
+    [vads_cust_country] => FR
+    [vads_cust_email] => dalihas07@yahoo.fr
+    [vads_cust_first_name] => Carole
+    [vads_cust_id] => 29
+    [vads_cust_last_name] => Calety
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 0642628394
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 95230
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 164
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Soisy sous montmorency
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Carole
+    [vads_ship_to_last_name] => Calety
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 0642628394
+    [vads_ship_to_street] => 2, place de l’eglise
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 95230
+    [vads_shipping_amount] => 667
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 1067
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180606084150
+    [vads_trans_id] => 385103
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Ananas Victoria
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 2
+    [vads_product_ref0] => 13
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:34: Server call process starts for cart #164.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:34: Payment accepted for cart #164. New order status is 2.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:34: Create order for cart #164.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:35: Order #52 created successfully for cart #164.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:35: Save payment information for cart #164.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:36: Payment information with ID(s) 47 saved successfully for cart #164.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:53: User return to shop process starts for cart #164.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:53: Order already registered for cart #164.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:53: The current state for order #52 is 2.
+*INFO* 	v1.7.2.2	2018/06/06 - 10:44:53: Payment success confirmed for cart #164.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:01:50: Form data generation for cart #169 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:01:50: Data to be sent to payment platform : Array
+(
+    [signature] => c60f5d596572793f9b5a9c1a524ea7e5d327d849
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 9015
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.27
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 5 rue des couchants
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Ecleux
+    [vads_cust_country] => FR
+    [vads_cust_email] => Eplenierflosteph@orange.fr
+    [vads_cust_first_name] => Stéphanie
+    [vads_cust_id] => 30
+    [vads_cust_last_name] => Eplenier
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 0683094654
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 39600
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 3
+    [vads_order_id] => 169
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Ecleux
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Stéphanie
+    [vads_ship_to_last_name] => Eplenier
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 0683094654
+    [vads_ship_to_street] => 5 rue des couchants
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 39600
+    [vads_shipping_amount] => 1096
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 1503
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180609210150
+    [vads_trans_id] => 829103
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Coffret découverte de 6 mignonnettes
+    [vads_product_amount0] => 1750
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 12
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Rhum arrangé Vanille Bourbon de la Réunion
+    [vads_product_amount1] => 2333
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 15
+    [vads_product_type1] => FOOD_AND_GROCERY
+    [vads_product_label2] => Rhum arrangé Coco
+    [vads_product_amount2] => 2333
+    [vads_product_qty2] => 1
+    [vads_product_ref2] => 16
+    [vads_product_type2] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/06/09 - 23:03:37: Server call process starts for cart #169.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:03:37: Payment accepted for cart #169. New order status is 2.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:03:37: Create order for cart #169.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:03:37: Order #53 created successfully for cart #169.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:03:37: Save payment information for cart #169.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:03:37: Payment information with ID(s) 50 saved successfully for cart #169.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:04:17: User return to shop process starts for cart #169.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:04:17: Order already registered for cart #169.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:04:17: The current state for order #53 is 2.
+*INFO* 	v1.7.2.2	2018/06/09 - 23:04:17: Payment success confirmed for cart #169.

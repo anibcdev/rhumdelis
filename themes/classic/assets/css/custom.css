@@ -1,0 +1,289 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ HACK WOOPLEE
+ */
+ 
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+ 
+/* 01 JUIN 2022*/
+
+.vitem-Texte {display:none}
+ /* RESPONSIVE
+ 
+ */
+.featured-products {clear: both;
+    display: block;}
+.featured-products h2{text-align: center;
+padding-top: 20px;}
+.online-only {
+    font-size: 12px!important;
+    margin-top: 1rem!important;
+    margin-left: 1rem!important;
+	width: max-content!important;}
+#header .header-top .menu {display: inline-block;}
+@media screen and (min-width: 1550px)  {
+.col-md-1 {
+    float: left;
+    width: 20%;
+}
+.col-lg-9 {
+    float: left;
+    width: 65%;
+}
+}
+@media screen and (min-width: 1740px) and (max-width: 2000px)   {
+.col-md-10 {
+    float: left;
+    width: 70%;
+}
+}
+@media screen and (min-width: 1440px) and (max-width: 1740px) {
+	.col-md-10 {
+	     width: 70%;
+	}
+	.carousel .carousel-item .caption {
+	    top: 70px;
+	    left: 340px;
+	    text-align: center;
+	}
+	
+}
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+.col-md-10 {
+    float: left;
+    width: 80%;
+}
+}
+@media screen and (min-width: 2000px) {
+.col-md-10 {
+    float: left;
+    width: 60%;
+}
+}
+ @media screen and (max-width: 440px) {
+	 #duplicated-custom-text p{font-size: .650rem;}
+	 .page-cms-8 img {width: 245px; height: auto;}
+	 #duplicated-custom-text{margin-top:40px}
+	 #header .header-nav #menu-icon {position:absolute}
+ #header .logo{max-width:120px!important}
+ #custom-text {display: block;}
+ #custom-text img {width:100%; height:auto;}
+ .header-nav .mobile { position: absolute; top: 0px;width:100%}
+ #logo {text-align: center;}
+ #header .header-nav .cart-preview .shopping-cart {padding: 0 15px; color: #000;}
+ .user-info a {color:#000!important}
+ #header .header-nav .blockcart {position:absolute; right:0; top:0}
+ #header .header-top .position-static {margin:0rem!important}
+ .user-info a {color:#000!important; padding:0 15px!important;}
+#_mobile_top_menu {padding:0 15px;}
+#header .header-nav .cart-preview.active {background:none!important}
+#header .header-nav .cart-preview.active a, #header .header-nav .cart-preview.active i {color:#000!important}
+
+ }
+/*FANCYBOX ABUS ALCOOL
+*/
+.fancybox-skin { min-height: 600px;}
+.close_fancybox {background: #5bab44; border-radius: 33px; color: #FFF; padding: 5px;}
+.warning {border:3px solid}
+#Everpopup_block_center {background:#1e1e1ecc ; text-align:center;width: 100%; height: 100%; margin: 0px!important; }
+#fenzy {background:#f0e9d3; vertical-align: middle; margin: auto;text-align:center; height: auto;
+padding: 30px;
+max-width: 880px; }
+
+
+ /* GENERAL
+ */
+.colleft-woop-custom {text-align: center;}
+.product-variants>.product-variants-item select {
+ text-align: center;
+ display: inline-block;}
+.product-variants-item {}
+li.product-flag.online-only {top:0rem!important}
+li.product-flag.online-only {background: #fe8901!important;}
+li.product-flag.online-only:before {content: "\e033"!important;}
+.code {color: #9b4a9a;}
+li.new {display:none}
+.checkgift {background: #ebd5ff;padding:10px; margin-bottom: 1.5rem;}
+.checkgift:hover {cursor: pointer;}
+.checkgift img {margin: 0px 20px;}
+.checkgift label {padding: 0 10px; cursor: pointer;}
+@-moz-document url-prefix() { 
+  .checkgift label {padding: 10px 10px 10px; cursor: pointer;}
+}
+.button_large {padding:10px; color:#FFF; background: #5bab44; border-radius:33px}
+.button_large:hover{color:#FFF; background: #4e9039;}
+.icone-facebook {position: absolute; color:#000; right: 0;}
+#stores_locator .bot {text-align:center; background:#FFF}
+.category-txt-woop {}
+	 .category-txt-woop h1 {}
+#banner-category-woop .breadcrumb li a{}
+.current {border-bottom:5px solid #9b4a9a}
+ .card-block {padding:1.25rem}
+ #left-column{padding-left: 0px !important;}
+.footer-container h3 {color:#f0e9d3;}
+.text-sm-center {color:#9b4a9a}
+#footer .text-sm-center a {color:#b6b3b3}
+#footer .text-sm-center a:hover {color:#9b4a9a}
+/* SLIDER ACCUEIL*/
+.btn-slider {background:#FFF; border-radius:33px; color:#000}
+.btn-slider:hover {background:#b24c84; color:#FFF}
+figcaption a {color:#FFF}
+figcaption a h2 {font-family: 'Pacifico', cursive; text-transform: inherit!important;}
+figcaption a:hover {color:#FFF}
+
+h2.Vanil {color:#463127}
+h2.Vanil_2{color:#dcb008} 
+h2.Banan {color: #e6c10b;}
+h2.Banan_2 {color:#69590a}
+h2.Anana {color: #f19e1d;}
+h2.Anana_2 {color: #f9ea05;}
+h2.Citro {color:#3f822b}
+h2.Citro_2 {color:#e4ff8c}
+h2.Migno {color:#280f27}
+h2.Migno_2 {color:#a7898c}
+
+.user-info a {background: #FFF;clear: both; float: left;}
+.user-info a:hover {}
+#banner-category-woop {min-height: 150px; background-size: cover!important;}
+.category-txt-woop {width:1150px; margin:auto; padding:3rem 1.25rem; display: block;}
+.block-category #category-description p {font-size:.800rem}
+.cat-desc-woop { width: 1110px; margin: auto;}
+
+/* PRODUCT
+*/
+body#product .nav-tabs .nav-link.active {background:none!important}
+.colleft-woop {margin-top: 7rem; text-align:center}
+body#product h1 {font-size: 1.9rem!important;color:#9b4a9a}
+body#product h2 {font-size: 1.2rem;}
+body#product h3 {font-size: 0.800rem;margin-bottom: 2rem;
+font-style: italic;
+color: #5f5151;}
+body#product .product-price {font-size:2rem}
+body#product .bootstrap-touchspin {float:none!important}
+/* PERSONNALISATION*/
+.custompdt {display:block;font-size: .80rem;}
+#custompdt {}
+.on {display:block}
+.off {display:none}
+.customtitle {margin-bottom:0rem!important}
+/* STORE LOCATOR */
+.formInner {max-width: 300px; text-align: center; display: block; margin: auto;}
+
+/* ADD TO CART
+ON LISTING PRODUCTS*/
+li.product-flag.on-sale {min-width:5.125rem!important}
+.product-flags-list{position:absolute;top:0;}
+.showoff {display:none}
+article {/*background: #FFF;*/}
+.btn-sm {background:#FFF;color:#000;border:1px solid #cecece} 
+.atc_qty {
+    display: inline-block;
+	display: none;
+	border-radius: 33px;
+    width: 40px;
+    border: 1px solid #cecece;
+    background: #FFF;
+    padding: 10px 0px;
+    text-align: center;
+    top: 2px;
+    margin: auto;
+    position: relative;
+    margin: 0px 5px 0px 0px;
+}
+ 
+.product-description {
+    min-height:130px;
+}
+ 
+#products .thumbnail-container {
+    min-height:468px;
+}
+ 
+.atc_div {
+    margin-left: 40px;
+    position: absolute;
+    bottom: 0;
+    display: block;
+	margin-bottom: 10px;
+}
+ 
+ 
+.atc_spinner {
+    -webkit-animation-name: spin;
+    -webkit-animation-duration: 4000ms;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-name: spin;
+    -moz-animation-duration: 4000ms;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -ms-animation-name: spin;
+    -ms-animation-duration: 4000ms;
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+     
+    animation-name: spin;
+    animation-duration: 4000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@-ms-keyframes spin {
+    from { -ms-transform: rotate(0deg); }
+    to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+ 
+ 
+#products .thumbnail-container:hover .highlighted-informations, .featured-products .thumbnail-container:hover .highlighted-informations, .product-accessories .thumbnail-container:hover .highlighted-informations, .product-miniature .thumbnail-container:hover .highlighted-informations {
+    bottom: 9.525rem;
+}
+ 
+#products .highlighted-informations, .featured-products .highlighted-informations, .product-accessories .highlighted-informations, .product-miniature .highlighted-informations {
+    bottom: 5rem;
+}
+
+/* TAB 
+ACCUEIL WOOPLEE */
+#index .tabs {padding:0px}
+#index #home-page-tabs {margin:0px 10px; text-align:center; }
+#home-page-tabs h3 {text-align:center; font-size:2rem!important; color:#9b4a9a; font-family: 'Pacifico', cursive;}
+.nav-tabs p {margin-top: 30px; font-style: italic; margin-bottom: 0px;}
+.nav-tabs .nav-item {display: inline-block; margin-bottom: -1px;}
+
+/* SECTIONS
+ESPACE HAUT WOOPLEE */
+.red-text { color: #ff005e;}
+body#index {background:#f1f1f1!important}
+body#index #content-wrapper {padding-top:0px}
+body#product #content-wrapper {padding-top:0px}
+body#product #wrapper{background: #f0e9d3 url(./img/bg-product.png) no-repeat;
+    background-size: contain;}
+body#category #content-wrapper {padding-top:20px}
+body#new-products #wrapper {padding-top:20px}
+body#order-confirmation #wrapper {padding-top:20px}
+body#best-sales #wrapper {padding-top:20px}
+body#contact #wrapper {padding-top:20px}
+body#authentication #wrapper {padding-top:20px}
+body#my-account #wrapper {padding-top:20px}
+body#cms #wrapper {padding-top:20px}
+body#sitemap #wrapper {padding-top:20px}
+body#stores #wrapper {}
+body#pagenotfound #wrapper {padding-top:20px}
+body#checkout #wrapper {padding-top:20px}

@@ -1,0 +1,20 @@
+#dupwoop-custom-text img{
+width: 100%;
+    height: auto;
+}
+#dupwoop-custom-text h3 {
+    text-transform: uppercase;
+    color: #414141;
+    font-size: 1.5625rem;
+    font-weight: 700
+}
+#dupwoop-custom-text p {
+    color: #414141;
+    font-weight: 400;
+    font-size: 1.1em;
+    line-height: 1.5em;
+}
+#dupwoop-custom-text p .dark {
+    color: #acaaa6;
+    font-weight: 400
+}

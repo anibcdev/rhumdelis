@@ -1,0 +1,98 @@
+.systempay_review .small {
+    font-size: 10px;
+}
+
+.systempay_review {
+    border: 1px solid black;
+    font-size: 13px !important;
+    margin-top: 5px;
+    min-width: 380px;
+}
+
+.systempay_review td.amount {
+    text-align: right;
+    font-weight: bold;
+}
+
+.systempay_review thead tr {
+    border-bottom: 1px solid black;
+}
+
+.systempay_review td, .systempay_review th {
+    padding: 3px 6px;
+}
+
+#systempay_iframe_overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+    background: #000 none repeat scroll 0 0;
+    opacity: 0.65; /* Safari, Opera */
+    filter: alpha(opacity=65); /* IE */
+    -moz-opacity: 0.65; /* FireFox */
+}
+
+#systempay_iframe_warn, #systempay_iframe_actions {
+    position: relative;
+    width: 100%;
+    background: #ffffff none repeat scroll 0 0;
+    z-index: 10001;
+}
+
+#systempay_iframe_warn {
+    text-align: center;
+    color: #7f7f7f;
+    margin-bottom: 10px;
+}
+
+#systempay_iframe_actions a {
+    font-size: 12px;
+    text-decoration: none;
+    border: 0;
+    margin-left: 15px;
+    padding: 0;
+    background: none;
+    cursor: pointer;
+    display: inline;
+}
+
+#systempay_iframe {
+    position: relative;
+    width: 100%;
+    min-height: 440px;
+    border: 0 none;
+    background: #ffffff none repeat scroll 0 0;
+    z-index: 10001;
+    margin-bottom: -6px;
+}
+
+.systempay_choozeo_card {
+    margin-right: 5px;
+}
+
+.systempay_choozeo_card input { /* hide radio */
+    display: none !important;
+}
+
+.systempay_choozeo_card img {
+    cursor:pointer;
+    border:2px solid transparent;
+    opacity: 0.6;
+}
+
+.systempay_choozeo_card input:checked + img {
+    border: 2px solid black;
+    opacity: 1;
+}
+
+.systempay_choozeo_card img:HOVER, .systempay_choozeo_card img.hover {
+    opacity: 1;
+}
+
+/* .payment-option label img {
+    float: left;
+    width: 86px;
+} */

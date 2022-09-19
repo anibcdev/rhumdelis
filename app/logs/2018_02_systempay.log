@@ -1,0 +1,586 @@
+*INFO* 	v1.7.2.2	2018/02/01 - 11:55:31: Form data generation for cart #40 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/02/01 - 11:55:31: Data to be sent to payment platform : Array
+(
+    [signature] => de4f85755e8f71d22e53cd1f971236a75a2b0620
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4195
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.23
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 8 impasse des champs passeret
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BESANCON
+    [vads_cust_country] => FR
+    [vads_cust_email] => mina@rhumdelis.fr
+    [vads_cust_first_name] => Yasmina
+    [vads_cust_id] => 7
+    [vads_cust_last_name] => SAMAN LATCHIMY
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 610500757
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25000
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 40
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BESANCON
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Yasmina
+    [vads_ship_to_last_name] => SAMAN LATCHIMY
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 610500757
+    [vads_ship_to_street] => 8 impasse des champs passeret
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 700
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180201105531
+    [vads_trans_id] => 429315
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Menthe basilic
+    [vads_product_amount0] => 2999
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 18
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/02/01 - 11:56:59: Server call process starts for cart #40.
+*INFO* 	v1.7.2.2	2018/02/01 - 11:56:59: Payment failed for cart #40.
+*INFO* 	v1.7.2.2	2018/02/01 - 11:57:49: User return to shop process starts for cart #40.
+*INFO* 	v1.7.2.2	2018/02/01 - 11:57:49: Payment failed, redirect to order checkout page, cart ID : #40.
+*INFO* 	v1.7.2.2	2018/02/01 - 11:57:56: Form data generation for cart #40 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/02/01 - 11:57:56: Data to be sent to payment platform : Array
+(
+    [signature] => 057939c5727984ef3de18860913552cebb1105ac
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4195
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.23
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 8 impasse des champs passeret
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BESANCON
+    [vads_cust_country] => FR
+    [vads_cust_email] => mina@rhumdelis.fr
+    [vads_cust_first_name] => Yasmina
+    [vads_cust_id] => 7
+    [vads_cust_last_name] => SAMAN LATCHIMY
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 610500757
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25000
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 40
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BESANCON
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Yasmina
+    [vads_ship_to_last_name] => SAMAN LATCHIMY
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 610500757
+    [vads_ship_to_street] => 8 impasse des champs passeret
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 700
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180201105756
+    [vads_trans_id] => 430766
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Menthe basilic
+    [vads_product_amount0] => 2999
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 18
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/02/01 - 11:59:22: Server call process starts for cart #40.
+*INFO* 	v1.7.2.2	2018/02/01 - 11:59:22: Payment failed for cart #40.
+*INFO* 	v1.7.2.2	2018/02/01 - 12:24:01: Form data generation for cart #39 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/02/01 - 12:24:01: Data to be sent to payment platform : Array
+(
+    [signature] => 31c38e4b847ce3a22e3daa380eedbbaf5f39774b
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3665
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.23
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 39 rue des cosaques
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => DAMPARIS
+    [vads_cust_country] => FR
+    [vads_cust_email] => seguinvincent@free.fr
+    [vads_cust_first_name] => vincent
+    [vads_cust_id] => 3
+    [vads_cust_last_name] => seguin
+    [vads_cust_legal_name] => WOOPLEE
+    [vads_cust_phone] => 0670876668
+    [vads_cust_title] => M
+    [vads_cust_zip] => 39500
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 39
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => DAMPARIS
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => vincent
+    [vads_ship_to_last_name] => seguin
+    [vads_ship_to_legal_name] => WOOPLEE
+    [vads_ship_to_phone_num] => 0670876668
+    [vads_ship_to_street] => 39 rue des cosaques
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 39500
+    [vads_shipping_amount] => 721
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 611
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180201112401
+    [vads_trans_id] => 446419
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Banane
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 17
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/02/01 - 12:27:26: Server call process starts for cart #39.
+*INFO* 	v1.7.2.2	2018/02/01 - 12:27:26: Payment failed for cart #39.
+*INFO* 	v1.7.2.2	2018/02/01 - 12:27:43: User return to shop process starts for cart #39.
+*INFO* 	v1.7.2.2	2018/02/01 - 12:27:43: Payment failed, redirect to order checkout page, cart ID : #39.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:23: Form data generation for cart #41 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:23: Data to be sent to payment platform : Array
+(
+    [signature] => a9099e51ec0a341a5da5171c527aecf06e7a9e01
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3665
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.23
+    [vads_ctx_mode] => TEST
+    [vads_currency] => 978
+    [vads_cust_address] => 39 rue des cosaques
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => DAMPARIS
+    [vads_cust_country] => FR
+    [vads_cust_email] => seguinvincent@free.fr
+    [vads_cust_first_name] => vincent
+    [vads_cust_id] => 3
+    [vads_cust_last_name] => seguin
+    [vads_cust_legal_name] => WOOPLEE
+    [vads_cust_phone] => 0670876668
+    [vads_cust_title] => M
+    [vads_cust_zip] => 39500
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 41
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => DAMPARIS
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => vincent
+    [vads_ship_to_last_name] => seguin
+    [vads_ship_to_legal_name] => WOOPLEE
+    [vads_ship_to_phone_num] => 0670876668
+    [vads_ship_to_street] => 39 rue des cosaques
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 39500
+    [vads_shipping_amount] => 721
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 611
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180201123823
+    [vads_trans_id] => 491034
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => 6 Verres à shooter peints à la main
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 21
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:34: Server call process starts for cart #41.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:34: Payment accepted for cart #41. New order status is 2.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:34: Create order for cart #41.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:35: Order #15 created successfully for cart #41.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:35: Save payment information for cart #41.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:35: Payment information with ID(s) 17 saved successfully for cart #41.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:41: User return to shop process starts for cart #41.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:41: Order already registered for cart #41.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:41: The current state for order #15 is 2.
+*INFO* 	v1.7.2.2	2018/02/01 - 13:38:41: Payment success confirmed for cart #41.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:29:40: Form data generation for cart #42 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:29:40: Data to be sent to payment platform : Array
+(
+    [signature] => 96e8e956fc1810c7a8616f5f6e888ac7bb093771
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4195
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.23
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 8 impasse des champs passeret
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BESANCON
+    [vads_cust_country] => FR
+    [vads_cust_email] => mina@rhumdelis.fr
+    [vads_cust_first_name] => Yasmina
+    [vads_cust_id] => 7
+    [vads_cust_last_name] => SAMAN LATCHIMY
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 610500757
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25000
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 42
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BESANCON
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Yasmina
+    [vads_ship_to_last_name] => SAMAN LATCHIMY
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 610500757
+    [vads_ship_to_street] => 8 impasse des champs passeret
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 700
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180201142940
+    [vads_trans_id] => 557801
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis citron vert et basilic
+    [vads_product_amount0] => 2999
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 9
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/02/01 - 15:31:10: Server call process starts for cart #42.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:31:10: Payment accepted for cart #42. New order status is 2.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:31:10: Create order for cart #42.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:31:11: Order #16 created successfully for cart #42.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:31:11: Save payment information for cart #42.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:31:11: Payment information with ID(s) 19 saved successfully for cart #42.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:44:09: Form data generation for cart #43 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:44:09: Data to be sent to payment platform : Array
+(
+    [signature] => 1b8faa3573d15d250652784bd77f10b0ee017e92
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4195
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.23
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 8 impasse des champs passeret
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BESANCON
+    [vads_cust_country] => FR
+    [vads_cust_email] => tipiment25@hotmail.fr
+    [vads_cust_first_name] => MINA
+    [vads_cust_id] => 8
+    [vads_cust_last_name] => SAMAN
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 0610500757
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25000
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 43
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BESANCON
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => MINA
+    [vads_ship_to_last_name] => SAMAN
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 0610500757
+    [vads_ship_to_street] => 8 impasse des champs passeret
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 700
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180201144409
+    [vads_trans_id] => 566492
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis cacao tonka
+    [vads_product_amount0] => 2999
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 8
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/02/01 - 15:45:47: Server call process starts for cart #43.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:45:47: Payment accepted for cart #43. New order status is 2.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:45:47: Create order for cart #43.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:45:48: Order #17 created successfully for cart #43.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:45:48: Save payment information for cart #43.
+*INFO* 	v1.7.2.2	2018/02/01 - 15:45:48: Payment information with ID(s) 21 saved successfully for cart #43.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:13:57: Form data generation for cart #45 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:13:57: Data to be sent to payment platform : Array
+(
+    [signature] => 905e3fe9553ad001e35d3f28eeea7b4bd1e27b48
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 4195
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.27
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 8 impasse des champs passeret
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BESANCON
+    [vads_cust_country] => FR
+    [vads_cust_email] => tipiment25@hotmail.fr
+    [vads_cust_first_name] => MINA
+    [vads_cust_id] => 8
+    [vads_cust_last_name] => SAMAN
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 0610500757
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25000
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 45
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BESANCON
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => MINA
+    [vads_ship_to_last_name] => SAMAN
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 0610500757
+    [vads_ship_to_street] => 8 impasse des champs passeret
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 700
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180209081357
+    [vads_trans_id] => 332370
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Menthe basilic
+    [vads_product_amount0] => 2999
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 18
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/02/09 - 09:15:22: Server call process starts for cart #45.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:15:22: Payment accepted for cart #45. New order status is 2.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:15:22: Create order for cart #45.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:15:22: Order #18 created successfully for cart #45.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:15:22: Save payment information for cart #45.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:15:22: Payment information with ID(s) 23 saved successfully for cart #45.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:19:34: Form data generation for cart #53 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:19:34: Data to be sent to payment platform : Array
+(
+    [signature] => 5c25eaa562afca0f4f12b390e7675e97532e8516
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3395
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.27
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 8 impasse des champs passeret
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BESANCON
+    [vads_cust_country] => FR
+    [vads_cust_email] => tipiment25@hotmail.fr
+    [vads_cust_first_name] => MINA
+    [vads_cust_id] => 8
+    [vads_cust_last_name] => SAMAN
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 0610500757
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25000
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 53
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BESANCON
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => MINA
+    [vads_ship_to_last_name] => SAMAN
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 0610500757
+    [vads_ship_to_street] => 8 impasse des champs passeret
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 566
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180209081934
+    [vads_trans_id] => 335740
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Banane
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 17
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/02/09 - 09:20:38: Server call process starts for cart #53.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:20:38: Payment accepted for cart #53. New order status is 2.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:20:38: Create order for cart #53.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:20:38: Order #19 created successfully for cart #53.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:20:38: Save payment information for cart #53.
+*INFO* 	v1.7.2.2	2018/02/09 - 09:20:38: Payment information with ID(s) 25 saved successfully for cart #53.
+*INFO* 	v1.7.2.2	2018/02/16 - 17:41:31: Form data generation for cart #56 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/02/16 - 17:41:32: Data to be sent to payment platform : Array
+(
+    [signature] => c62148f03bc72a383da7292e87934283402764c8
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 7200
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.27
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 8 impasse des champs passeret
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => BESANCON
+    [vads_cust_country] => FR
+    [vads_cust_email] => yasmina_saman@yahoo.fr
+    [vads_cust_first_name] => Yasmina
+    [vads_cust_id] => 4
+    [vads_cust_last_name] => SAMAN LATCHIMY
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 07 50 21 86 95
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 25000
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 2
+    [vads_order_id] => 56
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => BESANCON
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Yasmina
+    [vads_ship_to_last_name] => SAMAN LATCHIMY
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 07 50 21 86 95
+    [vads_ship_to_street] => 8 impasse des champs passeret
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 25000
+    [vads_shipping_amount] => 667
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 1201
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180216164132
+    [vads_trans_id] => 636920
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Menthe basilic
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 18
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Rhum arrangé Menthe basilic
+    [vads_product_amount1] => 2999
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 18
+    [vads_product_type1] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/02/16 - 17:43:02: Server call process starts for cart #56.
+*INFO* 	v1.7.2.2	2018/02/16 - 17:43:02: Payment accepted for cart #56. New order status is 2.
+*INFO* 	v1.7.2.2	2018/02/16 - 17:43:02: Create order for cart #56.
+*INFO* 	v1.7.2.2	2018/02/16 - 17:43:04: Order #44 created successfully for cart #56.
+*INFO* 	v1.7.2.2	2018/02/16 - 17:43:04: Save payment information for cart #56.
+*INFO* 	v1.7.2.2	2018/02/16 - 17:43:04: Payment information with ID(s) 28 saved successfully for cart #56.

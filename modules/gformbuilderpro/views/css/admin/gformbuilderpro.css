@@ -1,0 +1,533 @@
+.icon-AdminGformbuilderpro:before{
+    content:"\f044";
+}
+div#formbuilder {
+    float: left;
+    width: 100%;
+    background: #f3f3f3;
+    padding: 15px;
+    border: 3px dashed lightblue;
+}
+.formbuilder_group{
+    
+    padding: 5px;
+    float: left;
+}
+.itemfield_wp{
+    background: #f5f5f5;
+    padding: 30px 10px;
+    border: 2px dashed #ddd;
+    box-sizing: border-box;
+    min-height: 20px;
+}
+.field_content{
+    border:1px solid #ccc;
+    box-sizing: border-box;
+    min-height: 20px;
+    float: left;
+    background: #fdfdfd;
+    width: 100%;
+    padding: 10px;
+    box-shadow: 0px 3px 10px 0px #999;
+    border-radius: 2px;
+}
+.itemfield_wp{
+}
+.itemfield_wp {
+    min-height: 30px;
+}
+
+.formbuilder_tab{
+    display: none;
+}
+.formbuilder_tab.activetab{
+    display: block;
+}
+select.formbuilder_group_width {
+    font-size: 10px;
+    width: 70px;
+    cursor: pointer;
+}
+.control_box_wp ul li {
+    list-style: none;
+    float: left;
+    margin: 0;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    border-left: 1px solid rgb(146, 222, 222);
+    text-align: center;
+    background: #25B9D7;
+    line-height: 25px;
+}
+.control_box_wp ul li:hover{
+    background: #ccc;
+}
+.control_box_wp ul li:first-child{
+    border-left:none;
+}
+.control_box_wp ul li:last-child{
+    background:#C45C67;
+}
+.formbuilder_group_width_wp{
+    position: relative;
+}
+.control_box_wp ul li a{
+    padding: 4px;
+}
+.formbuilder_group_width{
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    width: 14px;
+    height: 17px;
+}
+.control_box_wp{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+.formbuilder_group:hover > .control_box_wp{
+    display: block;
+}
+.itemfield:hover > .control_box_wp{
+    display: block;
+}
+.control_box_wp ul li i {
+    color: #fff;
+}
+.itemfield {
+    padding: 5px;
+    box-sizing: border-box;
+}
+.formbuilder_move{
+    cursor: move;
+}
+.field_content .shortcode{
+    display: none;
+}
+#popup_field_config #content{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+body{
+    position: relative;
+}
+.control_box_wp li{
+    position: relative;
+}
+#gformbuilderpro_overlay{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.4);
+}
+#gformbuilderpro_overlay .content{
+    position: absolute;
+    top: 49%;
+    left: 49%;
+}
+.circle {
+	background-color: rgba(0,0,0,0);
+	border:5px solid rgba(0,183,229,0.9);
+	opacity:.9;
+	border-right:5px solid rgba(0,0,0,0);
+	border-left:5px solid rgba(0,0,0,0);
+	border-radius:50px;
+	box-shadow: 0 0 35px #2187e7;
+	width:50px;
+	height:50px;
+	margin:0 auto;
+	-moz-animation:spinPulse 1s infinite ease-in-out;
+	-webkit-animation:spinPulse 1s infinite linear;
+}
+@-moz-keyframes spinPulse {
+	0% { -moz-transform:rotate(160deg); opacity:0; box-shadow:0 0 1px #2187e7;}
+	50% { -moz-transform:rotate(145deg); opacity:1; }
+	100% { -moz-transform:rotate(-320deg); opacity:0; }
+}
+@-webkit-keyframes spinPulse {
+	0% { -webkit-transform:rotate(160deg); opacity:0; box-shadow:0 0 1px #2187e7; }
+	50% { -webkit-transform:rotate(145deg); opacity:1;}
+	100% { -webkit-transform:rotate(-320deg); opacity:0; }
+}
+.itemfield > .shortcode{
+    display: none;
+}
+.ui-sortable-placeholder{
+    border:1px dotted #dfdfdf;
+    background: #fdfdfd;
+    visibility: inherit !important;
+}
+#addnewgroup,#addnewgroupbreak{
+    margin: 10px auto;
+    float: left;
+    width: 50%;
+    
+}
+#itemfieldparent > div{
+    width: 50% !important;
+    max-width: 150px !important;
+    cursor: move;
+    float: left;
+}
+.formbuilder_group_break {
+    border: 1px dotted #ccc;
+    width: 100%;
+    clear: both;
+}
+.formbuilder_group_break .control_box_wp {
+    top: 0;
+    right: 5px;
+}
+.formbuilder_group_break .control_box_wp .formbuilder_group_width_wp{
+    display: none !important;
+}
+.button_controll_wp{
+    width: 100%;
+    float: left;
+    clear: both;
+}
+#itemfieldparent .tooltip-inner{
+    float: left;
+    width: 250px;
+}
+#itemfieldparent .tooltip-inner img{
+    max-width: 100%;
+}
+#popup_field_config .bootstrap .media-product-pack {
+    max-width: 24%;
+    box-sizing: border-box;
+    margin: 0 1% 1% 0;
+}
+.popup_field_config #module_form textarea{
+    min-height: 100px;
+}
+#popup_field_config{
+    min-width: 320px;
+}
+#popup_field_config .color {
+    max-width: 100px;
+    float: left;
+}
+#popup_field_config .mColorPickerTrigger{
+    float: left;
+    width: 50px;
+}
+.color_item {
+    width: 150px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 0 3px 3px 0;
+    padding: 2px;
+    float: left;
+}
+div#divColorItems {
+    width: 100%;
+    float: left;
+    margin-top: 3px;
+}
+.request_img{
+    max-width: 75px;
+    max-height: 75px;
+}
+.gthumb_item {
+    width: 75px;
+    height: 75px;
+    float: left;
+    position: relative;
+    margin: 0 3px 3px 0;
+    border:1px solid #ccc;
+    box-shadow: 1px 1px 2px #ccc;
+    border-radius: 3px;
+    padding: 3px;
+}
+.gthumb_item img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.delThumbItem {
+    top: 2px;
+    right: 2px;
+    position: absolute;
+}
+.label_lang{
+    display: none;
+}
+.feildlabel {
+    float: left;
+    margin-right: 3px;
+}
+
+
+.gfromloadshortcode {
+    float: left;
+    margin: 0 3px 3px 0 !important;
+}
+.emailshortcode {
+    width: 100%;
+    float: left;
+}
+.emailshortcode_panel {
+    float: left;
+    width: 100%;
+}
+.emailshortcode,.emailshortcode table {
+    width: 100%;
+    float: left;
+}
+.emailshortcode table td{
+    line-height: 25px;
+}
+.emailshortcode table td.label{
+    width: 40%;
+    font-weight: bold;
+    color: #555;
+}
+.emailshortcode table .even{
+    background: #fcfcfc;
+}
+
+.emailshortcode table .odd{
+    background: #f0f0f0;
+}
+.emailshortcode_panel .panel-heading{
+    cursor: pointer;
+    position: relative;
+}
+.emailshortcode_panel .panel-heading:after {
+    content: "\f0dd";
+    font: normal normal normal 14px/1 FontAwesome;
+    width: 8px;
+    height: 14px;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}
+.emailshortcode_panel .panel-heading.active:after {
+    content: "\f0de";
+    top: 10px;
+}
+#popup_field_config .get_product_version_old .product-pack-item{
+    width: 100%;
+    max-width: 100%;
+}
+#tabtemplate textarea[name="fields"]{
+    display: none;
+}
+.psversion15 .toolbar-placeholder{
+    width: 50% !important;
+    float: right;
+}
+.psversion15 .gformbuilderpro_admintab{
+    width: 45%;
+    float: left;
+}
+.psversion15 .gformbuilderpro_admintab li{
+    float: left;
+}
+.psversion15 .gformbuilderpro_admintab li.active{
+    background: #49B2FF;
+    color: #fff;
+}
+.psversion15 .gformbuilderpro_admintab li.active a{
+    color: #fff;
+}
+.psversion15 #gformbuilderpro_form input[type="text"]{
+    max-width: 400px;
+}
+.psversion15 .col-lg-3 {
+    width: 25%;
+    float: left;
+}
+.psversion15 .col-lg-9 {
+    width: 75%;
+    float: left;
+}
+.psversion15 .col-md-1{
+    width: 8.33333%;
+}
+.psversion15 .col-md-2{
+    width: 16.66667%;
+}
+.psversion15 .col-md-3{
+    width: 25%;
+}
+.psversion15 .col-md-4{
+    width: 33.33333%;
+}
+.psversion15 .col-md-5{
+    width: 41.66667%;
+}
+.psversion15 .col-md-6{
+    width: 50%;
+}
+.psversion15 .col-md-7{
+    width: 58.33333%;
+}
+.psversion15 .col-md-8{
+    width: 66.66667%;
+}
+.psversion15 .col-md-9{
+    width: 75%;
+}
+.psversion15 .col-md-10{
+    width: 83.33333%;
+}
+.psversion15 .col-md-11{
+    width: 91.66667%;
+}
+.psversion15 .col-md-12{
+    width: 100%;
+}
+.psversion15 #gformbuilderpro_form .hidden{
+    display: none;
+}
+.psversion15  .formbuilder_group{
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+}
+.psversion15 #gformbuilderpro_form .icon-move,.psversion15 #gformbuilderpro_form .icon-mobile,
+.psversion15 #gformbuilderpro_form .icon-tablet,.psversion15 #gformbuilderpro_form .icon-laptop,
+.psversion15 #gformbuilderpro_form .icon-trash,.psversion15 #gformbuilderpro_form .icon-pencil{
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+.psversion15 #gformbuilderpro_form .icon-move:before,.psversion15 #gformbuilderpro_form .icon-mobile:before,
+.psversion15 #gformbuilderpro_form .icon-tablet:before,.psversion15 #gformbuilderpro_form .icon-laptop:before,
+.psversion15 #gformbuilderpro_form .icon-trash:before,.psversion15 #gformbuilderpro_form .icon-pencil:before{
+    width: 20px;
+    height: 20px;
+    content: '';
+    background: url('../../img/joinimageicon.png') no-repeat transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.psversion15 #gformbuilderpro_form .icon-move:before{
+    background-position: -1px 0;
+}
+.psversion15 #gformbuilderpro_form .icon-mobile:before{
+    background-position: -1px -37px;
+}
+.psversion15 #gformbuilderpro_form .icon-tablet:before{
+    background-position: -1px -77px;
+}
+.psversion15 #gformbuilderpro_form .icon-laptop:before{
+    background-position: -1px -114px;
+}
+.psversion15 #gformbuilderpro_form .icon-trash:before{
+    background-position: -1px -157px;
+}   
+.psversion15 #gformbuilderpro_form .icon-pencil:before{
+    background-position: -4px -260px;
+}
+.psversion15  .control_box_wp a{
+    float: left;
+}
+.psversion15 #gformbuilderpro_form .process-icon-new{
+    width: 100%;
+    float: left;
+    position: relative;
+    height: 30px;
+}
+.psversion15 #gformbuilderpro_form .process-icon-new:before{
+    content: '';
+    width: 30px;
+    height: 30px;
+    background: url('../../img/joinimageicon.png') no-repeat transparent;
+    display: inline-block;
+    background-position: 0 -192px;
+}
+.psversion15 #gformbuilderpro_form input[type="radio"],.psversion15 #popup_field_config input[type="radio"]{
+    float: left;
+}
+.psversion15 #gformbuilderpro_form input[type="radio"] + label.switch_radio,.psversion15 #popup_field_config input[type="radio"] + label{
+    width: 30px;
+    margin: 0;
+    padding: 0;
+}
+.psversion15 #gformbuilderpro_form .itemfield{
+    position: relative;
+    float: left;
+}
+.psversion15 #gformbuilderpro_form  .itemfield_wp {
+    min-height: 30px;
+    float: left;
+    width: 100%;
+}
+.psversion15 #fancybox-close,#popup_field_config .hidden{
+    display: none !important;
+}
+.psversion15  #popup_field_config div#divThumbItems {
+    width: 100%;
+    float: left;
+}
+.click_to_copy{
+    cursor: pointer;
+}
+@media screen and (min-width: 480px) and (max-width: 980px) {
+    #popup_field_config{
+        min-width: 480px;
+    }
+}
+@media screen and (min-width: 981px){
+    #popup_field_config{
+        min-width: 680px;
+    }
+}
+.psversion15  #gformbuilderpro_form > fieldset{ 
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#formbuilder .itemfield .field_content {
+    padding: 20px 10px;
+    margin: 5px 0px;
+}
+.control_box_wp > ul{
+    float: right;
+    padding: 0;
+    margin: 0;
+}
+.multival {
+    border: 1px solid #ccc;
+    padding: 8px 5px;
+    margin: 2px 0;
+    position: relative;
+}
+.multival_action {
+    position: absolute;
+    top: 1px;
+    right: 2px;
+}
+.cancel_multival_newval{
+    display: none;
+}
+.multival.inedit{
+    background: #ccc;
+    box-shadow: 0 0 2px #ccc;
+}
+.updatelabel{
+    display: none;
+}
+.icon-minify::before {
+    content: "\f0d8";
+}
+.has_minify .icon-minify::before {
+    content: "\f0d7";
+}
+.formbuilder_group.has_minify .itemfield_wp{
+    max-height: 30px;
+    padding-bottom: 0;
+    -webkit-transition: height 1s; /* Safari */
+    transition: height 1s;
+    overflow: hidden;
+}

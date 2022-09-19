@@ -1,0 +1,127 @@
+*INFO* 	v1.7.2.2	2018/10/25 - 19:56:59: Form data generation for cart #252 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:56:59: Data to be sent to payment gateway : Array
+(
+    [signature] => Xc0ZY4YX+JdIQVEZ3slOdrhK2EGWCHWq4CfJln4G7z0=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3395
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.32
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 22 Allée Des Perrieres
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Saint Maur
+    [vads_cust_country] => FR
+    [vads_cust_email] => christophecolin54@gmail.com
+    [vads_cust_first_name] => Christophe
+    [vads_cust_id] => 34
+    [vads_cust_last_name] => Colin
+    [vads_cust_phone] => 0651817388
+    [vads_cust_title] => M
+    [vads_cust_zip] => 36250
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 252
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Saint Maur
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Christophe
+    [vads_ship_to_last_name] => Colin
+    [vads_ship_to_phone_num] => 0651817388
+    [vads_ship_to_street] => 22 Allée Des Perrieres
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 36250
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 566
+    [vads_theme_config] => 
+    [vads_trans_date] => 20181025175659
+    [vads_trans_id] => 718194
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis citron vert et basilic
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 9
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/10/25 - 19:57:35: Server call process starts for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:57:35: Payment failed for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:57:45: User return to shop process starts for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:57:45: Payment failed, redirect to order checkout page, cart ID : #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:57:51: Form data generation for cart #252 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:57:51: Data to be sent to payment gateway : Array
+(
+    [signature] => slMNhnLedMooSOte1TosAN0fFg+SgvXr5Mj1+EHcvY4=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3395
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.32
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 22 Allée Des Perrieres
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Saint Maur
+    [vads_cust_country] => FR
+    [vads_cust_email] => christophecolin54@gmail.com
+    [vads_cust_first_name] => Christophe
+    [vads_cust_id] => 34
+    [vads_cust_last_name] => Colin
+    [vads_cust_phone] => 0651817388
+    [vads_cust_title] => M
+    [vads_cust_zip] => 36250
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 252
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Saint Maur
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Christophe
+    [vads_ship_to_last_name] => Colin
+    [vads_ship_to_phone_num] => 0651817388
+    [vads_ship_to_street] => 22 Allée Des Perrieres
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 36250
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 566
+    [vads_theme_config] => 
+    [vads_trans_date] => 20181025175751
+    [vads_trans_id] => 718711
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis citron vert et basilic
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 9
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:04: Server call process starts for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:04: Payment accepted for cart #252. New order state is 2.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:04: Create order for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:04: Order #63 created successfully for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:04: Save payment information for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:04: Payment information with ID(s) 76 saved successfully for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:09: User return to shop process starts for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:09: Order already registered for cart #252.
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:09: The current state for order corresponding to cart #252 is (2).
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:09: No changes for order associated with cart #252, order remains in state (2).
+*INFO* 	v1.7.2.2	2018/10/25 - 19:59:09: Payment success confirmed for cart #252.

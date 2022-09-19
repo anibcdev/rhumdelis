@@ -1,0 +1,208 @@
+*INFO* 	v1.7.2.2	2018/04/02 - 18:45:49: Form data generation for cart #122 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/04/02 - 18:45:49: Data to be sent to payment platform : Array
+(
+    [signature] => be87faeed2de0d68c27240b28d112e1d8e59a7d1
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 12476
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.27
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 4 rue des chaumieres
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Boron
+    [vads_cust_country] => FR
+    [vads_cust_email] => sandra.kordas@gmail.fr
+    [vads_cust_first_name] => Sandra
+    [vads_cust_id] => 15
+    [vads_cust_last_name] => Kordas
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 0611678210
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 90100
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 3
+    [vads_order_id] => 122
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Boron
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Sandra
+    [vads_ship_to_last_name] => Kordas
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 0611678210
+    [vads_ship_to_street] => 4 rue des chaumieres
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 90100
+    [vads_shipping_amount] => 1063
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 2081
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180402164549
+    [vads_trans_id] => 675499
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis café
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 2
+    [vads_product_ref0] => 10
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Rhum arrangé Vanille Bourbon de la Réunion
+    [vads_product_amount1] => 2333
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 15
+    [vads_product_type1] => FOOD_AND_GROCERY
+    [vads_product_label2] => Délis citron vert et basilic
+    [vads_product_amount2] => 2333
+    [vads_product_qty2] => 1
+    [vads_product_ref2] => 9
+    [vads_product_type2] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/04/02 - 18:47:47: Server call process starts for cart #122.
+*INFO* 	v1.7.2.2	2018/04/02 - 18:47:47: Payment accepted for cart #122. New order status is 2.
+*INFO* 	v1.7.2.2	2018/04/02 - 18:47:47: Create order for cart #122.
+*INFO* 	v1.7.2.2	2018/04/02 - 18:47:48: Order #47 created successfully for cart #122.
+*INFO* 	v1.7.2.2	2018/04/02 - 18:47:48: Save payment information for cart #122.
+*INFO* 	v1.7.2.2	2018/04/02 - 18:47:48: Payment information with ID(s) 33 saved successfully for cart #122.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:55:35: Form data generation for cart #136 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:55:35: Data to be sent to payment platform : Array
+(
+    [signature] => 1310893e10f129c1b1445ad5c88dee32dbb0f2ea
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 2555
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.27
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 56 BIS Rue de Sévigné
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Joinville le pont
+    [vads_cust_country] => FR
+    [vads_cust_email] => nadege.sibelo@wanadoo.fr
+    [vads_cust_first_name] => Nadège
+    [vads_cust_id] => 19
+    [vads_cust_last_name] => Sibelo
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 0634463558
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 94340
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 136
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Joinville le pont
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Nadège
+    [vads_ship_to_last_name] => Sibelo
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 0634463558
+    [vads_ship_to_street] => 56 BIS Rue de Sévigné
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 94340
+    [vads_shipping_amount] => 379
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 426
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180424095535
+    [vads_trans_id] => 429358
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Coffret découverte de 6 mignonnettes
+    [vads_product_amount0] => 1750
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 12
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:41: Server call process starts for cart #136.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:41: Payment accepted for cart #136. New order status is 2.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:41: Create order for cart #136.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:41: Order #48 created successfully for cart #136.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:41: Save payment information for cart #136.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:41: Payment information with ID(s) 36 saved successfully for cart #136.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:49: User return to shop process starts for cart #136.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:49: Order already registered for cart #136.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:49: The current state for order #48 is 2.
+*INFO* 	v1.7.2.2	2018/04/24 - 11:56:49: Payment success confirmed for cart #136.
+*INFO* 	v1.7.2.2	2018/04/28 - 15:26:31: Form data generation for cart #139 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/04/28 - 15:26:32: Data to be sent to payment platform : Array
+(
+    [signature] => a96f24727d7fad8504bd921ab0a0a94a4be749d2
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 5495
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.8.2/1.7.2.2/7.0.27
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 4 rue de la digue
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => TOURNEFEUILLE
+    [vads_cust_country] => FR
+    [vads_cust_email] => fonsyl@yahoo.fr
+    [vads_cust_first_name] => Sylvie
+    [vads_cust_id] => 20
+    [vads_cust_last_name] => Fontes
+    [vads_cust_legal_name] => 
+    [vads_cust_phone] => 0683188024
+    [vads_cust_title] => Mme
+    [vads_cust_zip] => 31170
+    [vads_insurance_amount] => 0
+    [vads_language] => fr
+    [vads_nb_products] => 2
+    [vads_order_id] => 139
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => TOURNEFEUILLE
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Sylvie
+    [vads_ship_to_last_name] => Fontes
+    [vads_ship_to_legal_name] => 
+    [vads_ship_to_phone_num] => 0683188024
+    [vads_ship_to_street] => 4 rue de la digue
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 31170
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 916
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180428132631
+    [vads_trans_id] => 555919
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Vanille Bourbon de la Réunion
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 15
+    [vads_product_type0] => FOOD_AND_GROCERY
+    [vads_product_label1] => Coffret découverte de 6 mignonnettes
+    [vads_product_amount1] => 1750
+    [vads_product_qty1] => 1
+    [vads_product_ref1] => 12
+    [vads_product_type1] => FOOD_AND_GROCERY
+)
+

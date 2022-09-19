@@ -1,0 +1,124 @@
+*INFO* 	v1.7.2.2	2018/09/20 - 15:50:40: Form data generation for cart #236 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/09/20 - 15:50:40: Data to be sent to payment gateway : Array
+(
+    [signature] => wZaOtXesE4jV5r62nYkGMUj0HpX4lPJWGhFOf2Xv90U=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3395
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.30
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 3, allée des pommiers
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => MAFFLIERS
+    [vads_cust_country] => FR
+    [vads_cust_email] => pat95.roux@gmail.com
+    [vads_cust_first_name] => Patrick
+    [vads_cust_id] => 40
+    [vads_cust_last_name] => ROUX
+    [vads_cust_phone] => 0610151756
+    [vads_cust_title] => M
+    [vads_cust_zip] => 95560
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 236
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => MAFFLIERS
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Patrick
+    [vads_ship_to_last_name] => ROUX
+    [vads_ship_to_phone_num] => 0610151756
+    [vads_ship_to_street] => 3, allée des pommiers
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 95560
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 566
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180920135040
+    [vads_trans_id] => 570408
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Rhum arrangé Fruit de la passion
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 14
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/09/20 - 15:52:23: Server call process starts for cart #236.
+*INFO* 	v1.7.2.2	2018/09/20 - 15:52:23: Payment accepted for cart #236. New order state is 2.
+*INFO* 	v1.7.2.2	2018/09/20 - 15:52:23: Create order for cart #236.
+*INFO* 	v1.7.2.2	2018/09/20 - 15:52:24: Order #61 created successfully for cart #236.
+*INFO* 	v1.7.2.2	2018/09/20 - 15:52:24: Save payment information for cart #236.
+*INFO* 	v1.7.2.2	2018/09/20 - 15:52:24: Payment information with ID(s) 71 saved successfully for cart #236.
+*INFO* 	v1.7.2.2	2018/09/29 - 21:23:53: Form data generation for cart #243 with standard sub-module.
+*INFO* 	v1.7.2.2	2018/09/29 - 21:23:53: Data to be sent to payment gateway : Array
+(
+    [signature] => BuqfrfqAwwPnR1x2zkVNBws6KMuKADsUWGAArEkgmkA=
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 3395
+    [vads_available_languages] => fr
+    [vads_capture_delay] => 
+    [vads_contrib] => PrestaShop1.5-1.7_1.10.1/1.7.2.2/7.0.30
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_cust_address] => 22 Allée Des Perrieres
+    [vads_cust_cell_phone] => 
+    [vads_cust_city] => Saint Maur
+    [vads_cust_country] => FR
+    [vads_cust_email] => christophecolin54@gmail.com
+    [vads_cust_first_name] => Christophe
+    [vads_cust_id] => 34
+    [vads_cust_last_name] => Colin
+    [vads_cust_phone] => 0651817388
+    [vads_cust_title] => M
+    [vads_cust_zip] => 36250
+    [vads_language] => fr
+    [vads_nb_products] => 1
+    [vads_order_id] => 243
+    [vads_order_info] => Paiement par carte bancaire
+    [vads_page_action] => PAYMENT
+    [vads_payment_cards] => 
+    [vads_payment_config] => SINGLE
+    [vads_return_mode] => GET
+    [vads_ship_to_city] => Saint Maur
+    [vads_ship_to_country] => FR
+    [vads_ship_to_first_name] => Christophe
+    [vads_ship_to_last_name] => Colin
+    [vads_ship_to_phone_num] => 0651817388
+    [vads_ship_to_street] => 22 Allée Des Perrieres
+    [vads_ship_to_street2] => 
+    [vads_ship_to_zip] => 36250
+    [vads_shipping_amount] => 496
+    [vads_shop_name] => Rhum Délis
+    [vads_shop_url] => http://rhumdelis.com
+    [vads_site_id] => 88908503
+    [vads_tax_amount] => 566
+    [vads_theme_config] => 
+    [vads_trans_date] => 20180929192353
+    [vads_trans_id] => 770331
+    [vads_url_return] => http://rhumdelis.com/module/systempay/submit
+    [vads_validation_mode] => 
+    [vads_version] => V2
+    [vads_product_label0] => Délis Bibasse Nèfle
+    [vads_product_amount0] => 2333
+    [vads_product_qty0] => 1
+    [vads_product_ref0] => 27
+    [vads_product_type0] => FOOD_AND_GROCERY
+)
+
+*INFO* 	v1.7.2.2	2018/09/29 - 21:24:56: Server call process starts for cart #243.
+*INFO* 	v1.7.2.2	2018/09/29 - 21:24:56: Payment accepted for cart #243. New order state is 2.
+*INFO* 	v1.7.2.2	2018/09/29 - 21:24:56: Create order for cart #243.
+*INFO* 	v1.7.2.2	2018/09/29 - 21:24:57: Order #62 created successfully for cart #243.
+*INFO* 	v1.7.2.2	2018/09/29 - 21:24:57: Save payment information for cart #243.
+*INFO* 	v1.7.2.2	2018/09/29 - 21:24:57: Payment information with ID(s) 73 saved successfully for cart #243.
